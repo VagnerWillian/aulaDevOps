@@ -1,4 +1,4 @@
 # aulaDevOps
 Projeto iniciado em 12/02/2020
-Aula DevOps
-Versao 01
+<br>Aula DevOps</br>
+<br>Alex Oliveira</br>
